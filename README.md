@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GoobisMoobis
 - 👀 I like to make websites using GitHub pages, Glitch, etc using HTML, JS, and CSS. I also know Lua and sometimes code in Roblox!
 <sub>
-Minor things ive dabbled in: Visual Basic, Powershell, Git, Firebase, nbm
+- Minor things ive dabbled in: Visual Basic, Powershell, Git, Firebase, nbm
 </sub>
 
 - 🌱 I’m currently learning more HTML/JS/CSS to make better sites
