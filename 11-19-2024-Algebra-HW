@@ -1,0 +1,156 @@
+HW 11/19/2024
+
+
+
+Problem #31
+
+let x = the total cost of the pizza
+
+4.50/x ≥ 3/10
+4.50 ≥ (3/10)x
+4.50 * (10/3) ≥ x
+15 ≥ x
+
+Final answer: x ≤ 15
+The pizza costs at most $15.00
+
+----------------------------------------
+
+Problem #36
+
+let x = Gilberto's final test score
+(86 + 88 + 78 + x)/4 ≥ 85
+86 + 88 + 78 + x ≥ 85(4)
+86 + 88 + 78 + x ≥ 340
+252 + x ≥ 340
+x ≥ 88
+
+Final answer: x ≥ 88
+Gilberto must score at least 88 on the final test
+
+----------------------------------------
+
+1.
+let h = number of hours
+Original inequality:
+15 + 2h ≤ 35
+2h ≤ 20
+h ≤ 10
+
+Final answer: h ≤ 10
+Jay can rent the detector for at most 10 hours
+
+----------------------------------------
+
+2.
+let x = age of youngest brother
+
+Original inequality:
+x + (x+1) + (x+2) > 60  (sum of brothers' ages > father's age)
+3x + 3 > 60
+3x > 57
+x > 19
+
+Final answer for part a/b: x > 19
+The youngest brother is older than 19 years old
+
+Part c - Age of oldest brother:
+Since we found x > 19:
+- Youngest brother (x) is older than 19
+- Middle brother (x+1) is older than 20
+- Oldest brother (x+2) is older than 21
+
+Since we're told the brothers are exactly one year apart and x > 19:
+The oldest brother must be 22 years old because:
+1. If he were 21, x would be 19, which doesn't satisfy x > 19
+2. The sum of their ages (22 + 21 + 20 = 63) is greater than father's age (60)
+3. Any younger ages wouldn't satisfy x > 19, any older ages would unnecessarily exceed the father's age
+
+Final answer for part c: The oldest brother is 22 years old
+
+----------------------------------------
+
+4.
+let x = number of stamps
+Original inequality:
+0.49x ≤ 10  (cost of stamps ≤ money available)
+x ≤ 20.41
+x ≤ 20
+
+Final answer: x ≤ 20
+Keshila can buy at most 20 stamps
+
+----------------------------------------
+
+5.
+where x = number of people
+Original inequality:
+100 + 40x ≤ 520
+40x ≤ 420
+x ≤ 10.5
+
+Since we can't have partial people, round DOWN
+x ≤ 10
+
+Final answer: x ≤ 10
+Nathaniel can invite at most 10 people
+
+----------------------------------------
+
+6.
+Original inequality:
+5x - 1 ≥ -11
+5x ≥ -10
+x ≥ -2
+
+Final answer: x ≥ -2
+
+----------------------------------------
+
+7.
+Original inequality:
+21 > 15 + 2x
+6 > 2x
+3 > x
+
+Final answer: x < 3
+
+----------------------------------------
+
+8.
+Original inequality:
+-9 ≥ (2/5)x + 7
+-16 ≥ (2/5)x
+-40 ≥ x
+
+Final answer: x ≤ -40
+
+----------------------------------------
+
+9.
+Original inequality:
+x/8 - 13 > -6
+x/8 > 7
+x > 56
+
+Final answer: x > 56
+
+----------------------------------------
+
+10.
+Original inequality:
+-x + 6 ≤ 5
+-x ≤ -1
+x ≥ 1
+
+Final answer: x ≥ 1
+
+----------------------------------------
+
+11. 
+Original inequality:
+37 < 7 - 10x
+30 < -10x
+-3 > x
+
+Final answer: x < -3
