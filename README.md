@@ -3,7 +3,7 @@
 - ❓ Minor things ive dabbled in: Visual Basic, Powershell, Git, Firebase, npm, Minecraft modding, Jekyll, Scratch, Discord bot developement
 - 🌱 I’m currently learning more Python (specifically the module tkinter)
 - 💞️ I'd be willing to collaborate on really anything
-- 📫 My email account was shutdown by google by their modertion and idk why, ill update my contact info when I get my account back
+- 📫 goobismoobisgithub@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: idk
 
