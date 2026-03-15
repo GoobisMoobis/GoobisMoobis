@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @GoobisMoobis
-- 👀 I like to make websites, lua programs/robloc games, and programming simple python applications.
-- ❓ Minor things ive dabbled in: Visual Basic, Powershell, Git, Firebase, npm, Minecraft modding, Jekyll, Scratch, Discord bot developement
-- 🌱 I’m currently learning more Python (specifically the module tkinter)
+- 👀 I like to make websites, lua programs/roblox games, and python/C# applications.
 - 💞️ I'd be willing to collaborate on really anything
-- 📫 goobismoobisgithub@gmail.com
+- 📫 contact@goobismoobis.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: idk
 
